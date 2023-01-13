@@ -1,0 +1,2 @@
+hola soy Sergio Martin, y estoy en Git.
+tengo 46 años, la edad es un numero.

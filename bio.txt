@@ -1,3 +1,5 @@
 hola soy Sergio Martin, y estoy en Git.
 tengo 46 años, la edad es un numero.
 Trabajo en Computer Space
+España
+Mi deporte favorito es el futbol
